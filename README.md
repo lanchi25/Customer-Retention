@@ -32,4 +32,54 @@ Your colleague, the engagement partner, asks you to do the following tasks:
 
 ![image](https://github.com/user-attachments/assets/25a893c0-9d6f-4061-bf6c-20bbc3176c41) 
 
+**Dataset: ** 
+Customer ID  
+Gender  
+SeniorCitizen  
+Partner(Y/N)    
+Dependents(Y/N)    
+tenure(nhiệm kỳ)     
+phoneservice  
+multiplelines  
+internet service  
+online security  
+online back up  
+device protection  
+tech support  
+streamingTV  
+streaming movies  
+contract  
+paperless billing  
+PaymentMethod  
+MonthlyCharges  
+TotalCharges  
+numAdminTickets  
+numTechTickets  
+Churn(Y/N):   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
